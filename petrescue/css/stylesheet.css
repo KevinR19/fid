@@ -1,0 +1,334 @@
+body 	{
+	background-color: #cccccc; 
+	}
+
+
+a 	{
+  
+	text-decoration: none; 
+
+	color: #FFFFFF; 
+	}
+
+a:link 	{
+	color: #cccccc; 
+	}
+
+a:visted {
+	color: #937393; 
+	}
+
+a:focus, a:hover {
+	color: #c21d1d; 
+	background-color: #FFFFFF; 
+	}
+
+a:active {
+	color: #000000; 
+	background-color: #FFFFFF; 
+	}
+
+.logo 	{
+	background-color: #bab1b1; 
+	width: 980px; 
+	height: 90px; 
+	margin: 0 auto; 
+	}
+
+.logo img {
+	display: block; 
+	margin: 0 auto; 
+	width: 120px; 
+	height: 120px; 
+	}
+
+.follow {
+	background-color: #bab1b1; 
+	color: #c21d1d; 
+	font-family: Tahoma, sans-serif; 
+	font-size: 10pt; 
+	width: 250px; 
+	height: 160px; 
+	line-height: 110px; 
+	margin-left: 177px;  
+	float: left; 
+	text-align: center; 
+	}
+
+.facebook {
+	background-color: #bab1b1; 
+	width: 230px; 
+	height: 110px; 
+	margin-top: -113px; 
+	}
+
+.facebook img {
+	margin-left: 20px; 
+	}
+
+.header {
+	background-color: #bab1b1; 
+	font-family: "Century Gothic", sans-serif; 
+	width: 480px; 
+	height: 160px; 
+	margin: 0px; 
+	float: left; 
+	text-align: center; 
+	}
+
+.header h1 {
+	color: #c21d1d; 
+	}
+
+.header h4 {
+	color: #FFFFFF; 
+	}
+
+.call 	{
+	background-color: #bab1b1; 
+	color: #c21d1d; 
+	font-size: 10pt; 
+	font-family: Tahoma, sans-serif; 
+	width: 250px; 
+	height: 160px; 
+	line-height: 110px; 
+	margin: 0px; 
+	float: left; 
+	text-align: center; 
+	}
+
+.navigation {
+	margin: 0 auto; 
+	width: 980px; 
+	height: 200px; 
+	line-height: 55px; 
+	text-align: center; 
+	background-color: #c21d1d; 
+	font-family: "Century Gothic", sans-serif; 
+	text-transform: uppercase; 
+	color: #FFFFFF; 
+	word-spacing: 5em; 
+	}
+
+.bannerimage 	{
+	background-color: red; 
+	width: 980px; 
+	margin: 0 auto; 
+	}
+
+.bannerimage img {
+	display: block; 
+	margin: 0 auto; 
+	width: 980px; 
+	height: 366px;
+	}
+
+.mission {
+	background-color: #df6565; 
+	font-family: Verdana, sans-serif;  
+	color: #FFFFFF; 
+	width: 560px; 
+	height: 160px;  
+	margin-left: 177px;  
+	float: left; 
+	} 
+
+.mission h3 {
+	color: #FFFFFF; 
+	}
+
+.mission h3, p {
+	margin-left: 10px; 
+	margin-right: 10px; 
+	}
+
+.missionlogo {
+	background-color: #df6565; 
+	width: 420px; 
+	height: 160px;  
+	float: left; 
+	}
+
+.missionlogo img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 22px; 
+	width: 120px; 
+	height: 120px;
+	}
+
+.spacer1 {
+	background-color: #c21d1d; 
+	margin: 0 auto; 
+	width: 980px; 
+	}
+
+.adoptions 	{
+	background-color: #8b7777; 
+	font-family: Verdana, sans-serif; 
+	color: #1f429b;
+	width: 326px; 
+	height: 322px; 
+	float: left; 
+	margin-left: 177px; 
+	}
+
+.adoptions img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 15px; 
+	}
+
+.adoptions h2 {
+	text-align: center; 
+	}
+
+.adoptions a:link {
+	color: #c21d1d; 
+	}
+
+.contacts 	{
+	background-color: #8b7777; 
+	font-family: Verdana, sans-serif; 
+	color: #1f429b;
+	width: 332px; 
+	height: 322px; 
+	float: left; 
+	}
+
+.contacts img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 15px; 
+	}
+
+.contacts h2 {
+	text-align: center; 
+	}
+
+.contacts a:link {
+	color: #c21d1d; 
+	}
+
+.location 	{
+	background-color: #8b7777; 
+	font-family: Verdana, sans-serif; 
+	color: #1f429b; 
+	width: 322px; 
+	height: 322px; 
+	float: left;  
+	}
+
+.location img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 15px;
+	}
+
+.location h2 {
+	text-align: center; 
+	}
+
+.location a:link {
+	color: #c21d1d; 
+	}
+
+.footer1 	{
+	background-color: #c21d1d; 
+	color: #FFFFFF; 
+	font-family: "Century Gothic", sans-serif; 
+	width: 980px; 
+	line-height: 10px;  
+	margin: 0 auto; 
+	text-align: center; 
+	}
+
+.footer1 a:link {
+	color: #FFFFFF; 
+	}
+
+.footer1 a:focus, a:hover {
+	color: #c21d1d; 
+	background-color: #FFFFFF; 
+	}
+
+.dog_one {
+	background-color: #8b7777; 
+	font-family: Verdana, sans-serif; 
+	color: #1f429b;
+	width: 326px; 
+	height: 300px; 
+	float: left; 
+	margin-left: 177px; 
+	}
+
+.dog_one img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 22px; 
+	}
+
+.dog_two {
+	background-color: #8b7777; 
+	font-family: Verdana, sans-serif; 
+	color: #1f429b;
+	width: 332px; 
+	height: 300px; 
+	float: left; 
+	}
+
+.dog_two img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 22px; 
+	}
+
+.dog_three 	{
+	background-color: #8b7777; 
+	font-family: Verdana, sans-serif; 
+	color: #1f429b; 
+	width: 322px; 
+	height: 300px; 
+	float: left;  
+	}
+
+.dog_three img {
+	display: block; 
+	margin: 0 auto; 
+	margin-top: 22px;
+	}
+
+.contactinfo {
+	background-color: #df6565; 
+	font-family: Verdana, sans-serif;  
+	color: #FFFFFF; 
+	width: 980px; 
+	height: 235px; 
+	margin-left: 177px;  
+	float: left; 
+	} 
+
+.contactinfo h3 {
+	color: #FFFFFF; 
+	}
+
+.contactinfo h3, p {
+	margin-left: 10px; 
+	margin-right: 10px; 
+	}
+
+.contactinfo p {
+	text-align: center;   
+	}
+
+.locationinfo {
+	background-color: #df6565; 
+	font-family: Verdana, sans-serif; 
+	color: #FFFFFF; 
+	width: 980px; 
+	height: 600px; 
+	margin-left: 177px; 
+	float: left; 
+	text-align: center; 
+	}
+
